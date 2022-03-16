@@ -1,0 +1,6 @@
+Hardward leads
+https://tutorials-raspberrypi.com/expand-raspberry-pi-gpios-with-i2c-port-expander/
+
+https://www.digikey.com/en/products/detail/microchip-technology/MCP23018-E-SP/1999505
+
+Whole expander as a “bonnet” https://www.adafruit.com/product/4132
